@@ -29,7 +29,7 @@ requirements.txt    #Dependencias de Python
     # macOS/Linux
     source EyeTracking/bin/activate
 
-3. Instalar dependencias
+3. ### Instalar dependencias
     pip install --upgrade pip
     pip install -r requirements.txt
 
